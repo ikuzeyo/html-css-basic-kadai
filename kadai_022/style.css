@@ -4,7 +4,7 @@ h1 {
 }
 h2{
     font-size:25px;
-    text-decoration: underline dotted 3px rgb(236, 122, 122);
+    border-bottom: dotted 3px rgb(236, 122, 122);
 
 }
 
@@ -86,8 +86,8 @@ a:visited{
     p{
         font-size:25px;
     }
-    .parent{
-        display: flex;
+    #parent{
+        display: block;
     
     }
 }
